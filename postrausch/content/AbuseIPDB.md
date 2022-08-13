@@ -1,10 +1,12 @@
-+++
-title = "AbuseIPDB"
-date = "2022-08-13"
-aliases = ["abuse","IPDB"]
-[ author ]
-  name = "Henry Rausch"
-+++
+---
+title:
+- AbuseIPDB
+date:
+- "2022-08-13"
+aliases:
+- abuse
+- IPDB
+---
 
 AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks.
 
